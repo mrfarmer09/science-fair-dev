@@ -95,3 +95,5 @@ set the destination to
 ```
 
 Then you are all set to work on the project!
+
+[GitHub page](https://github.com/mrfarmer09/science-fair-dev/tree/main)
