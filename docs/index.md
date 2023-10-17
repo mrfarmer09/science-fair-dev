@@ -18,20 +18,27 @@ Recommended:
 - RTX 2060
 - 500 GB of SSD storage
 
-## Installation and Running the Image
+## Installing and Running the image
+
+All you need to do to install
+the docker image is,
+run the command:
+
+```bash
+docker pull mrfarmerofficial/science-fair-dev && docker run -i -t mrfarmerofficial/science-fair-dev:latest
+```
+
+and the image should be installed and running!
 
 ### Prerequisites
 
 - Windows 10/11 or Ubuntu 20.04
-- WSL2 (Windows subsystem for Linux)
+- WSL2 (Windows subsystem for Linux, required only for Windows)
 - Docker
 - Python 3
-- Tensorflow GPU support (Docker)
+- Hardware meets all minimum reqiurements
 
-### Building the image
-
-There is no pre-build Docker image,
-so you have to build the Docker image your self.
+## Building the image
 
 To build the Docker image,
 use the command:
