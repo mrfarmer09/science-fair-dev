@@ -1,5 +1,3 @@
-<link rel="fluid-icon" href="https://github.com/fluidicon.png" title="GitHub">
-
 # Science Fair project development
 
 ## System reqiurments
