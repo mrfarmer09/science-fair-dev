@@ -30,6 +30,10 @@ docker pull mrfarmerofficial/science-fair-dev && docker run -i -t mrfarmeroffici
 
 and the image should be installed and running!
 
+Note, you will have to have NVIDIA Container Toolkit installed on you system for this to work.
+NVIDIA has documentation on there website for that:
+https://docs.nvidia.com/datacenter/cloud-native/container-toolkit/latest/install-guide.html
+
 ### Prerequisites
 
 - Windows 10/11 or Ubuntu 20.04
