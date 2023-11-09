@@ -4,3 +4,7 @@ This repository is for development of the AI. Everything (including Dockerfile) 
 
 To read documentation,
 go to <https://docs.science-fair-dev.patriotsoftwaremn.com>
+
+**Note, I have moved to using a basic minimax algorithm.
+I moved to using a minimax algorithm because, I am running out of time before the Science Fair.
+I will continue to work on the more advanced Tic Tac Toe AI after the Science Fair.*
